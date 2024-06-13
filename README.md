@@ -5,3 +5,5 @@
 - https://www.youtube.com/playlist?list=PL4PCksYQGLJOcaPLgeMFaxaHigPFjBuTG
 - https://www.youtube.com/playlist?list=PLFlBFxFB2mdjLbqVxFjrxYg7ai0xwQSwH
 - https://www.youtube.com/playlist?list=PLzjZaW71kMwTGbP1suqY16w1VSb9ZNuvE
+-  https://codeforces.com/blog/entry/23054
+- https://usaco.guide/general/using-this-guide?lang=cpp
